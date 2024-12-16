@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.chart-container {
+  margin-bottom: 30px;
+}
+
+.chart-container h2 {
+  margin-bottom: 20px;
+  color: #2d3748;
+}
